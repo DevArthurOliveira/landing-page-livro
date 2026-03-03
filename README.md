@@ -2,6 +2,8 @@
 
 Este é um projeto de treino feito totalmente por mim, para praticar HTML e CSS.
 
+📅 **Produzido em:** 08/2024
+
 ## Sobre o Projeto
 
 - Site criado do zero.
